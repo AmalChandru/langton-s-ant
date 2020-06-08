@@ -7,7 +7,7 @@ Squares on a plane are colored variously either black or white. We arbitrarily i
 3) When the ant leaves a square, it inverts the color.
 
 
-We can extend this to multiple states(Semi-chaotic,Spiral..), multiple colors(LLRR,R1R2NUR2R1L2....)
+We can extend this to multiple states (Semi-chaotic,Spiral..), multiple colors (LLRR,R1R2NUR2R1L2....)
 I came to know about this by [Numberphile!](https://www.youtube.com/watch?v=NWBToaXK5T0)
 # Resources
 1) -->[Wikipedia](https://en.wikipedia.org/wiki/Langton%27s_ant)
