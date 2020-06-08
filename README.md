@@ -8,7 +8,7 @@ Squares on a plane are colored variously either black or white. We arbitrarily i
 
 
 We can extend this to multiple states(Semi-chaotic,Spiral..), multiple colors(LLRR,R1R2NUR2R1L2....)
-I came to know about this by Numberphile!-->[a link](https://www.youtube.com/watch?v=NWBToaXK5T0)
+I came to know about this by [Numberphile!](https://www.youtube.com/watch?v=NWBToaXK5T0)
 # Resources
-Wikipedia -->[a link](https://en.wikipedia.org/wiki/Langton%27s_ant)
-Try this --> [a link](http://www.langtonant.com/)
+-->[Wikipedia](https://en.wikipedia.org/wiki/Langton%27s_ant)
+-->[Simulation](http://www.langtonant.com/)
